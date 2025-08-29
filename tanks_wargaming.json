@@ -1,0 +1,2914 @@
+{
+  "15441": {
+    "level": 8,
+    "short": "Chieftain"
+  },
+  "12913": {
+    "level": 8,
+    "short": "Groundtank"
+  },
+  "7729": {
+    "level": 6,
+    "short": "WZ-131G FT"
+  },
+  "25089": {
+    "level": 9,
+    "short": "Объект 752"
+  },
+  "1825": {
+    "level": 1,
+    "short": "M2 Light"
+  },
+  "12417": {
+    "level": 8,
+    "short": "Bisonte C45"
+  },
+  "7041": {
+    "level": 6,
+    "short": "Turbo"
+  },
+  "6433": {
+    "level": 3,
+    "short": "T82"
+  },
+  "52481": {
+    "level": 4,
+    "short": "Валентайн II"
+  },
+  "21073": {
+    "level": 6,
+    "short": "Дредноут"
+  },
+  "22609": {
+    "level": 8,
+    "short": "Caernarvon Defender"
+  },
+  "52769": {
+    "level": 3,
+    "short": "Locust"
+  },
+  "5377": {
+    "level": 8,
+    "short": "ИС-3"
+  },
+  "52497": {
+    "level": 2,
+    "short": "Pz. 38H"
+  },
+  "14145": {
+    "level": 5,
+    "short": "AMX ELC bis"
+  },
+  "23809": {
+    "level": 9,
+    "short": "Объект 84"
+  },
+  "5953": {
+    "level": 2,
+    "short": "AMX 38"
+  },
+  "17745": {
+    "level": 10,
+    "short": "FV217 Badger"
+  },
+  "20769": {
+    "level": 8,
+    "short": "T25 Pilot 1"
+  },
+  "24337": {
+    "level": 8,
+    "short": "M48A2 Räumpanzer"
+  },
+  "14721": {
+    "level": 8,
+    "short": "Strv 81"
+  },
+  "19217": {
+    "level": 10,
+    "short": "Grille 15"
+  },
+  "21777": {
+    "level": 10,
+    "short": "VK 90.01 (P)"
+  },
+  "4929": {
+    "level": 8,
+    "short": "AMX 13 90"
+  },
+  "11649": {
+    "level": 5,
+    "short": "Semovente M41"
+  },
+  "17953": {
+    "level": 7,
+    "short": "M41 Bulldog"
+  },
+  "64017": {
+    "level": 7,
+    "short": "Франкенштанк"
+  },
+  "3713": {
+    "level": 6,
+    "short": "Strv 74"
+  },
+  "25601": {
+    "level": 7,
+    "short": "ИС-2 экранированный"
+  },
+  "24865": {
+    "level": 8,
+    "short": "Scepter"
+  },
+  "58641": {
+    "level": 10,
+    "short": "VK 72.01 K"
+  },
+  "9777": {
+    "level": 9,
+    "short": "WZ-114"
+  },
+  "12321": {
+    "level": 4,
+    "short": "T6E1 Grizzly"
+  },
+  "18945": {
+    "level": 8,
+    "short": "ИСУ-130"
+  },
+  "25889": {
+    "level": 6,
+    "short": "Рейнджер"
+  },
+  "13617": {
+    "level": 8,
+    "short": "Type 59 spc"
+  },
+  "353": {
+    "level": 2,
+    "short": "Chi-Ni"
+  },
+  "57105": {
+    "level": 6,
+    "short": "Dicker Max"
+  },
+  "18513": {
+    "level": 8,
+    "short": "Chimera"
+  },
+  "5137": {
+    "level": 8,
+    "short": "Tiger II"
+  },
+  "13345": {
+    "level": 8,
+    "short": "T26E4"
+  },
+  "24401": {
+    "level": 8,
+    "short": "Vickers MBT"
+  },
+  "18305": {
+    "level": 5,
+    "short": "SDP 40 Zadymka"
+  },
+  "17169": {
+    "level": 3,
+    "short": "Pz. IV A"
+  },
+  "53537": {
+    "level": 2,
+    "short": "T1E6"
+  },
+  "8289": {
+    "level": 8,
+    "short": "Type 95 Ji-Ro"
+  },
+  "2609": {
+    "level": 6,
+    "short": "Type 64"
+  },
+  "62993": {
+    "level": 7,
+    "short": "VK 45.03"
+  },
+  "2625": {
+    "level": 6,
+    "short": "ARL 44"
+  },
+  "1057": {
+    "level": 5,
+    "short": "M4 Sherman"
+  },
+  "26385": {
+    "level": 7,
+    "short": "Tiger Frontline"
+  },
+  "7697": {
+    "level": 8,
+    "short": "Ferdinand"
+  },
+  "28945": {
+    "level": 10,
+    "short": "Waffen F1.0"
+  },
+  "4961": {
+    "level": 8,
+    "short": "Ho-Ri T.I"
+  },
+  "10033": {
+    "level": 9,
+    "short": "WZ-132A"
+  },
+  "57361": {
+    "level": 6,
+    "short": "Pz. IV S."
+  },
+  "10753": {
+    "level": 9,
+    "short": "СТ-I"
+  },
+  "4193": {
+    "level": 9,
+    "short": "Ho-Ri T.II"
+  },
+  "321": {
+    "level": 3,
+    "short": "D2"
+  },
+  "10065": {
+    "level": 7,
+    "short": "AT 7"
+  },
+  "2353": {
+    "level": 1,
+    "short": "VAE Type B"
+  },
+  "22097": {
+    "level": 6,
+    "short": "Churchill VIII"
+  },
+  "17985": {
+    "level": 6,
+    "short": "Bretagne Panther"
+  },
+  "60161": {
+    "level": 8,
+    "short": "ИС-2Ш"
+  },
+  "27937": {
+    "level": 8,
+    "short": "T49 Бесстрашный"
+  },
+  "14337": {
+    "level": 10,
+    "short": "Об. 263"
+  },
+  "19713": {
+    "level": 6,
+    "short": "Шерман Лозы"
+  },
+  "3633": {
+    "level": 7,
+    "short": "IS-2"
+  },
+  "21281": {
+    "level": 6,
+    "short": "Рудольф"
+  },
+  "15905": {
+    "level": 10,
+    "short": "M60"
+  },
+  "51985": {
+    "level": 3,
+    "short": "Pz. S35"
+  },
+  "22561": {
+    "level": 8,
+    "short": "TS-5"
+  },
+  "6929": {
+    "level": 10,
+    "short": "Maus"
+  },
+  "9217": {
+    "level": 8,
+    "short": "ИС-6"
+  },
+  "2881": {
+    "level": 4,
+    "short": "AMX 40"
+  },
+  "11073": {
+    "level": 9,
+    "short": "Foch"
+  },
+  "13329": {
+    "level": 4,
+    "short": "D.W. 2"
+  },
+  "4465": {
+    "level": 7,
+    "short": "Hafen"
+  },
+  "10241": {
+    "level": 7,
+    "short": "СУ-100М1"
+  },
+  "2049": {
+    "level": 4,
+    "short": "А-20"
+  },
+  "17": {
+    "level": 5,
+    "short": "Pz. IV G"
+  },
+  "3073": {
+    "level": 3,
+    "short": "Т-46"
+  },
+  "20049": {
+    "level": 8,
+    "short": "FV301"
+  },
+  "29201": {
+    "level": 9,
+    "short": "Tiger-Maus"
+  },
+  "52065": {
+    "level": 4,
+    "short": "Hetzer Kamesan SP"
+  },
+  "113": {
+    "level": 7,
+    "short": "Vindicator UM"
+  },
+  "22865": {
+    "level": 8,
+    "short": "Charlemagne"
+  },
+  "4481": {
+    "level": 10,
+    "short": "Kranvagn"
+  },
+  "16753": {
+    "level": 8,
+    "short": "DTH-STR"
+  },
+  "11009": {
+    "level": 8,
+    "short": "КВ-4"
+  },
+  "11137": {
+    "level": 7,
+    "short": "SMV CC-56"
+  },
+  "58881": {
+    "level": 8,
+    "short": "ИС-5"
+  },
+  "15889": {
+    "level": 6,
+    "short": "VK 30.02 M"
+  },
+  "1537": {
+    "level": 4,
+    "short": "Т-28 обр. 1940 г."
+  },
+  "2321": {
+    "level": 6,
+    "short": "VK 36.01 H"
+  },
+  "8033": {
+    "level": 10,
+    "short": "Type 5 Heavy"
+  },
+  "18961": {
+    "level": 7,
+    "short": "SP I C"
+  },
+  "2657": {
+    "level": 8,
+    "short": "STA-1"
+  },
+  "881": {
+    "level": 7,
+    "short": "Edelweiss"
+  },
+  "593": {
+    "level": 6,
+    "short": "Sherman Firefly"
+  },
+  "17521": {
+    "level": 7,
+    "short": "Светоносец"
+  },
+  "20545": {
+    "level": 5,
+    "short": "Renault G1"
+  },
+  "2433": {
+    "level": 2,
+    "short": "10TP"
+  },
+  "1025": {
+    "level": 2,
+    "short": "БТ-2"
+  },
+  "6993": {
+    "level": 1,
+    "short": "Cruiser II"
+  },
+  "59137": {
+    "level": 7,
+    "short": "ИС-2 (1945)"
+  },
+  "289": {
+    "level": 2,
+    "short": "M3 Stuart"
+  },
+  "11025": {
+    "level": 7,
+    "short": "St. Emil"
+  },
+  "5393": {
+    "level": 5,
+    "short": "Leopard"
+  },
+  "24145": {
+    "level": 8,
+    "short": "GSOR Бесстрашный"
+  },
+  "25617": {
+    "level": 8,
+    "short": "HWK 30"
+  },
+  "16961": {
+    "level": 10,
+    "short": "AMX_50B_test"
+  },
+  "2065": {
+    "level": 1,
+    "short": "Pz. II"
+  },
+  "21265": {
+    "level": 8,
+    "short": "VK 168.01 (P)"
+  },
+  "1665": {
+    "level": 4,
+    "short": "Lago"
+  },
+  "49": {
+    "level": 8,
+    "short": "Type 59"
+  },
+  "5441": {
+    "level": 9,
+    "short": "AMX 30 1er prot."
+  },
+  "25633": {
+    "level": 8,
+    "short": "M-IV-Y"
+  },
+  "12401": {
+    "level": 8,
+    "short": "Oth43_WZ-122_2_Werewolf"
+  },
+  "26129": {
+    "level": 6,
+    "short": "Эпсилон"
+  },
+  "10289": {
+    "level": 10,
+    "short": "WZ-132-1"
+  },
+  "23585": {
+    "level": 7,
+    "short": "M-VII-Yoh"
+  },
+  "5233": {
+    "level": 7,
+    "short": "Крушитель"
+  },
+  "16241": {
+    "level": 7,
+    "short": "Костолом"
+  },
+  "26641": {
+    "level": 8,
+    "short": "Kpz 07 RH"
+  },
+  "5249": {
+    "level": 6,
+    "short": "Pudel"
+  },
+  "64337": {
+    "level": 6,
+    "short": "AC IV Sentinel"
+  },
+  "6689": {
+    "level": 7,
+    "short": "T49 П"
+  },
+  "20513": {
+    "level": 8,
+    "short": "T54E2"
+  },
+  "19793": {
+    "level": 9,
+    "short": "Vickers CR"
+  },
+  "9761": {
+    "level": 6,
+    "short": "Chaffee"
+  },
+  "4977": {
+    "level": 5,
+    "short": "Мародёр"
+  },
+  "8305": {
+    "level": 7,
+    "short": "Titan H-Nd"
+  },
+  "19057": {
+    "level": 9,
+    "short": "Destiny"
+  },
+  "25857": {
+    "level": 10,
+    "short": "Об. 777 II"
+  },
+  "18433": {
+    "level": 7,
+    "short": "ЛТТБ"
+  },
+  "51745": {
+    "level": 5,
+    "short": "Ram II"
+  },
+  "23329": {
+    "level": 8,
+    "short": "M-III-Yoh"
+  },
+  "609": {
+    "level": 1,
+    "short": "R. Otsu"
+  },
+  "16897": {
+    "level": 10,
+    "short": "Об. 140"
+  },
+  "8513": {
+    "level": 10,
+    "short": "AMX 30 B"
+  },
+  "12145": {
+    "level": 9,
+    "short": "Glacier"
+  },
+  "20225": {
+    "level": 10,
+    "short": "IS-7_test_collectible"
+  },
+  "3649": {
+    "level": 10,
+    "short": "B-C 25 t"
+  },
+  "337": {
+    "level": 2,
+    "short": "Medium II"
+  },
+  "17265": {
+    "level": 8,
+    "short": "Жнец"
+  },
+  "817": {
+    "level": 8,
+    "short": "WZ-111"
+  },
+  "4737": {
+    "level": 8,
+    "short": "EMIL 1951"
+  },
+  "3585": {
+    "level": 6,
+    "short": "СУ-100"
+  },
+  "7297": {
+    "level": 10,
+    "short": "60TP Lewandowskiego"
+  },
+  "7249": {
+    "level": 10,
+    "short": "FV4202"
+  },
+  "3441": {
+    "level": 7,
+    "short": "Oth05_Mech_LaN-42"
+  },
+  "9793": {
+    "level": 4,
+    "short": "SAu 40"
+  },
+  "2369": {
+    "level": 3,
+    "short": "FCM 36 Pak 40"
+  },
+  "1409": {
+    "level": 6,
+    "short": "P.43 bis"
+  },
+  "10769": {
+    "level": 7,
+    "short": "Tiger (P)"
+  },
+  "13169": {
+    "level": 4,
+    "short": "Oth61_Pz_VM_Set"
+  },
+  "21249": {
+    "level": 6,
+    "short": "Гром"
+  },
+  "3457": {
+    "level": 8,
+    "short": "Emil I"
+  },
+  "19777": {
+    "level": 8,
+    "short": "A.P. AMX 30"
+  },
+  "625": {
+    "level": 6,
+    "short": "Strv 74A2"
+  },
+  "7009": {
+    "level": 8,
+    "short": "Type 57"
+  },
+  "54289": {
+    "level": 8,
+    "short": "Löwe"
+  },
+  "8993": {
+    "level": 9,
+    "short": "M46 Patton"
+  },
+  "20801": {
+    "level": 9,
+    "short": "Lorraine 50 t"
+  },
+  "8465": {
+    "level": 8,
+    "short": "Panther II"
+  },
+  "8753": {
+    "level": 7,
+    "short": "M41D"
+  },
+  "5729": {
+    "level": 6,
+    "short": "Ju-Nu"
+  },
+  "6465": {
+    "level": 6,
+    "short": "AMX 12 t"
+  },
+  "53761": {
+    "level": 5,
+    "short": "СУ-85И"
+  },
+  "6401": {
+    "level": 3,
+    "short": "СУ-76"
+  },
+  "28961": {
+    "level": 7,
+    "short": "Sherman Easy 8"
+  },
+  "3361": {
+    "level": 5,
+    "short": "T1 Heavy"
+  },
+  "9489": {
+    "level": 10,
+    "short": "E 100"
+  },
+  "2305": {
+    "level": 7,
+    "short": "СУ-152"
+  },
+  "12161": {
+    "level": 10,
+    "short": "Strv K"
+  },
+  "16721": {
+    "level": 1,
+    "short": "GB69_Cruiser_Mk_II_tutorial_bot"
+  },
+  "18977": {
+    "level": 10,
+    "short": "T95E6"
+  },
+  "3905": {
+    "level": 9,
+    "short": "AMX 50 120"
+  },
+  "6145": {
+    "level": 10,
+    "short": "ИС-4"
+  },
+  "54273": {
+    "level": 3,
+    "short": "СУ-76И"
+  },
+  "24065": {
+    "level": 7,
+    "short": "ЛТГ"
+  },
+  "26625": {
+    "level": 7,
+    "short": "Т-34-85 Прорывной"
+  },
+  "24577": {
+    "level": 10,
+    "short": "Объект 268/4"
+  },
+  "641": {
+    "level": 9,
+    "short": "Standard B"
+  },
+  "2897": {
+    "level": 5,
+    "short": "Churchill I"
+  },
+  "63553": {
+    "level": 8,
+    "short": "AMX CDC"
+  },
+  "14625": {
+    "level": 8,
+    "short": "T69"
+  },
+  "3425": {
+    "level": 9,
+    "short": "Type 61"
+  },
+  "3937": {
+    "level": 10,
+    "short": "Ho-Ri"
+  },
+  "15217": {
+    "level": 8,
+    "short": "Oth65_PzVIllM_Tigeom"
+  },
+  "52993": {
+    "level": 4,
+    "short": "А-32"
+  },
+  "12593": {
+    "level": 8,
+    "short": "BZ-166"
+  },
+  "64529": {
+    "level": 7,
+    "short": "E 25"
+  },
+  "18033": {
+    "level": 7,
+    "short": "Hazard I"
+  },
+  "19457": {
+    "level": 1,
+    "short": "Т-26"
+  },
+  "64785": {
+    "level": 1,
+    "short": "Pz.Kpfw. II"
+  },
+  "8961": {
+    "level": 7,
+    "short": "КВ-13"
+  },
+  "11633": {
+    "level": 7,
+    "short": "Лесная ведьма"
+  },
+  "2593": {
+    "level": 9,
+    "short": "T30"
+  },
+  "4913": {
+    "level": 6,
+    "short": "59-16"
+  },
+  "4881": {
+    "level": 3,
+    "short": "Pz. III A"
+  },
+  "4353": {
+    "level": 8,
+    "short": "Т-44"
+  },
+  "3105": {
+    "level": 4,
+    "short": "M3 Lee"
+  },
+  "28689": {
+    "level": 10,
+    "short": "Rhm. Pzw."
+  },
+  "23057": {
+    "level": 7,
+    "short": "Kunze Panzer"
+  },
+  "25873": {
+    "level": 8,
+    "short": "Elefant"
+  },
+  "9857": {
+    "level": 7,
+    "short": "Škoda T 45"
+  },
+  "65057": {
+    "level": 1,
+    "short": "T1 Cunningham"
+  },
+  "7169": {
+    "level": 10,
+    "short": "ИС-7"
+  },
+  "1585": {
+    "level": 8,
+    "short": "T-34-2"
+  },
+  "1617": {
+    "level": 5,
+    "short": "Sherman V"
+  },
+  "7505": {
+    "level": 3,
+    "short": "Cruiser IV"
+  },
+  "19473": {
+    "level": 5,
+    "short": "Krupp-38(D)"
+  },
+  "24353": {
+    "level": 10,
+    "short": "M-VI-Yoh"
+  },
+  "2177": {
+    "level": 3,
+    "short": "14TP"
+  },
+  "29473": {
+    "level": 9,
+    "short": "ATAC"
+  },
+  "81": {
+    "level": 1,
+    "short": "Medium I"
+  },
+  "56097": {
+    "level": 6,
+    "short": "Fury"
+  },
+  "6273": {
+    "level": 7,
+    "short": "T-34/100"
+  },
+  "13441": {
+    "level": 6,
+    "short": "Aeonix"
+  },
+  "2561": {
+    "level": 6,
+    "short": "Т-34-85"
+  },
+  "4225": {
+    "level": 9,
+    "short": "Emil II"
+  },
+  "13425": {
+    "level": 5,
+    "short": "Oth62_Pz_VlD_Set"
+  },
+  "5217": {
+    "level": 7,
+    "short": "Chi-To SPG"
+  },
+  "59649": {
+    "level": 7,
+    "short": "ИСУ-122С"
+  },
+  "11809": {
+    "level": 7,
+    "short": "T23E3"
+  },
+  "2849": {
+    "level": 8,
+    "short": "T34"
+  },
+  "15697": {
+    "level": 10,
+    "short": "Chieftain Mk. 6"
+  },
+  "849": {
+    "level": 4,
+    "short": "Matilda"
+  },
+  "24609": {
+    "level": 10,
+    "short": "Concept 1B"
+  },
+  "18449": {
+    "level": 8,
+    "short": "Ru 251"
+  },
+  "13697": {
+    "level": 8,
+    "short": "TNH 105/1000"
+  },
+  "18769": {
+    "level": 8,
+    "short": "Action X"
+  },
+  "21009": {
+    "level": 8,
+    "short": "Panzer 58"
+  },
+  "19025": {
+    "level": 8,
+    "short": "Defender Mk. 1"
+  },
+  "5425": {
+    "level": 10,
+    "short": "WZ-113"
+  },
+  "1553": {
+    "level": 6,
+    "short": "Jg.Pz. IV"
+  },
+  "26881": {
+    "level": 8,
+    "short": "Об. 590"
+  },
+  "1153": {
+    "level": 7,
+    "short": "P.43 ter"
+  },
+  "9297": {
+    "level": 10,
+    "short": "FV215b 183"
+  },
+  "9329": {
+    "level": 6,
+    "short": "Titan-150"
+  },
+  "56609": {
+    "level": 7,
+    "short": "T28 HTC"
+  },
+  "22081": {
+    "level": 8,
+    "short": "ELC AMX-901"
+  },
+  "16641": {
+    "level": 6,
+    "short": "МТ-25"
+  },
+  "4897": {
+    "level": 3,
+    "short": "M2 Medium"
+  },
+  "20289": {
+    "level": 6,
+    "short": "Пират"
+  },
+  "7793": {
+    "level": 7,
+    "short": "Уничтожитель"
+  },
+  "3601": {
+    "level": 2,
+    "short": "Pz.Jäg. I"
+  },
+  "23889": {
+    "level": 9,
+    "short": "FV4201 Chieftain Proto"
+  },
+  "64769": {
+    "level": 8,
+    "short": "ИС-6 Бесстрашный"
+  },
+  "14961": {
+    "level": 7,
+    "short": "Мутант"
+  },
+  "14865": {
+    "level": 9,
+    "short": "Leopard PT A"
+  },
+  "385": {
+    "level": 10,
+    "short": "Progetto 65"
+  },
+  "5409": {
+    "level": 4,
+    "short": "M7"
+  },
+  "6657": {
+    "level": 7,
+    "short": "Т-43"
+  },
+  "8561": {
+    "level": 6,
+    "short": "Titan T24 57"
+  },
+  "20737": {
+    "level": 8,
+    "short": "СУ-130ПМ"
+  },
+  "1921": {
+    "level": 5,
+    "short": "Strv m/42"
+  },
+  "25345": {
+    "level": 8,
+    "short": "Объект 274a"
+  },
+  "6209": {
+    "level": 10,
+    "short": "AMX 50 B"
+  },
+  "12065": {
+    "level": 8,
+    "short": "T95E2"
+  },
+  "785": {
+    "level": 2,
+    "short": "Pz. 35 (t)"
+  },
+  "62737": {
+    "level": 8,
+    "short": "leKpz M 41 90 mm"
+  },
+  "1297": {
+    "level": 7,
+    "short": "Panther"
+  },
+  "1121": {
+    "level": 7,
+    "short": "Chi-Ri"
+  },
+  "3153": {
+    "level": 7,
+    "short": "Black Prince"
+  },
+  "24593": {
+    "level": 8,
+    "short": "Keiler"
+  },
+  "62977": {
+    "level": 8,
+    "short": "T-44-100"
+  },
+  "11793": {
+    "level": 6,
+    "short": "Nashorn"
+  },
+  "54353": {
+    "level": 5,
+    "short": "Excelsior"
+  },
+  "11281": {
+    "level": 9,
+    "short": "Kpz 70"
+  },
+  "17489": {
+    "level": 8,
+    "short": "Charioteer"
+  },
+  "5185": {
+    "level": 7,
+    "short": "AMX 13 75"
+  },
+  "1073": {
+    "level": 7,
+    "short": "T-34-1"
+  },
+  "10545": {
+    "level": 6,
+    "short": "Ветер"
+  },
+  "17025": {
+    "level": 8,
+    "short": "Progetto CC55 mod. 54"
+  },
+  "10881": {
+    "level": 8,
+    "short": "SMV CC-64"
+  },
+  "7761": {
+    "level": 2,
+    "short": "Cruiser III"
+  },
+  "22033": {
+    "level": 6,
+    "short": "Диверсант"
+  },
+  "64561": {
+    "level": 8,
+    "short": "112 Ледяной"
+  },
+  "28433": {
+    "level": 9,
+    "short": "HWK 12"
+  },
+  "20097": {
+    "level": 10,
+    "short": "Felice"
+  },
+  "1329": {
+    "level": 1,
+    "short": "NC-31"
+  },
+  "23553": {
+    "level": 2,
+    "short": "МС-1"
+  },
+  "26369": {
+    "level": 8,
+    "short": "СТ-62 вар. 2"
+  },
+  "16145": {
+    "level": 5,
+    "short": "Pz.Sfl. IVc"
+  },
+  "22801": {
+    "level": 6,
+    "short": "Ледокол"
+  },
+  "52561": {
+    "level": 9,
+    "short": "Tortoise"
+  },
+  "5937": {
+    "level": 8,
+    "short": "59-Patton"
+  },
+  "9745": {
+    "level": 9,
+    "short": "E 75"
+  },
+  "17537": {
+    "level": 7,
+    "short": "Carro d'assalto P.88"
+  },
+  "18209": {
+    "level": 8,
+    "short": "T49"
+  },
+  "4657": {
+    "level": 5,
+    "short": "Type T-34"
+  },
+  "16513": {
+    "level": 8,
+    "short": "ShPTK-TVP 100"
+  },
+  "17425": {
+    "level": 4,
+    "short": "Pz. IV D"
+  },
+  "1": {
+    "level": 5,
+    "short": "Т-34"
+  },
+  "7985": {
+    "level": 8,
+    "short": "WZ-111-1G FT"
+  },
+  "3873": {
+    "level": 7,
+    "short": "T29"
+  },
+  "21505": {
+    "level": 7,
+    "short": "Т-44-85"
+  },
+  "9345": {
+    "level": 7,
+    "short": "Свей"
+  },
+  "18001": {
+    "level": 10,
+    "short": "FV4005"
+  },
+  "6673": {
+    "level": 3,
+    "short": "Marder II"
+  },
+  "5505": {
+    "level": 10,
+    "short": "TVP T 50/51"
+  },
+  "8017": {
+    "level": 3,
+    "short": "Valentine AT"
+  },
+  "54865": {
+    "level": 2,
+    "short": "Light VIC"
+  },
+  "11393": {
+    "level": 6,
+    "short": "Bassotto"
+  },
+  "16657": {
+    "level": 8,
+    "short": "Rhm.-B. WT"
+  },
+  "22305": {
+    "level": 9,
+    "short": "AE Phase I"
+  },
+  "10017": {
+    "level": 6,
+    "short": "M4A3E2"
+  },
+  "3953": {
+    "level": 9,
+    "short": "T 55A"
+  },
+  "865": {
+    "level": 1,
+    "short": "Ha-Go"
+  },
+  "5745": {
+    "level": 6,
+    "short": "Y5 Firefly"
+  },
+  "24321": {
+    "level": 10,
+    "short": "Т-100 ЛТ"
+  },
+  "10097": {
+    "level": 5,
+    "short": "Меджай"
+  },
+  "7745": {
+    "level": 2,
+    "short": "FT AC"
+  },
+  "4945": {
+    "level": 4,
+    "short": "Valentine Mk. IX"
+  },
+  "23569": {
+    "level": 5,
+    "short": "Pz. IV Гаргулья"
+  },
+  "10049": {
+    "level": 5,
+    "short": "S35 CA"
+  },
+  "64849": {
+    "level": 4,
+    "short": "AC 1 Sentinel"
+  },
+  "54801": {
+    "level": 3,
+    "short": "T-15"
+  },
+  "7937": {
+    "level": 9,
+    "short": "Т-54"
+  },
+  "12049": {
+    "level": 10,
+    "short": "Jg.Pz. E 100"
+  },
+  "14209": {
+    "level": 6,
+    "short": "Škoda P-JS"
+  },
+  "2817": {
+    "level": 6,
+    "short": "КВ-1С"
+  },
+  "13825": {
+    "level": 10,
+    "short": "Т-62А"
+  },
+  "4369": {
+    "level": 3,
+    "short": "Pz. III"
+  },
+  "60929": {
+    "level": 3,
+    "short": "БТ-7 арт."
+  },
+  "12657": {
+    "level": 8,
+    "short": "Titan Charioteer"
+  },
+  "9601": {
+    "level": 7,
+    "short": "CS-52 LIS"
+  },
+  "23041": {
+    "level": 5,
+    "short": "Т-34 экр."
+  },
+  "10609": {
+    "level": 7,
+    "short": "Magnate"
+  },
+  "10625": {
+    "level": 9,
+    "short": "CC 1 Mk. 2"
+  },
+  "4721": {
+    "level": 7,
+    "short": "Могильщик"
+  },
+  "53585": {
+    "level": 5,
+    "short": "Matilda BP"
+  },
+  "63601": {
+    "level": 7,
+    "short": "Дракула"
+  },
+  "20033": {
+    "level": 9,
+    "short": "Char Futur 4"
+  },
+  "11521": {
+    "level": 9,
+    "short": "ИС-8"
+  },
+  "20561": {
+    "level": 8,
+    "short": "Turtle Mk. I"
+  },
+  "6945": {
+    "level": 5,
+    "short": "Wolverine"
+  },
+  "1105": {
+    "level": 6,
+    "short": "Cromwell"
+  },
+  "26401": {
+    "level": 6,
+    "short": "Enforcer"
+  },
+  "1361": {
+    "level": 6,
+    "short": "Churchill Mk. VI"
+  },
+  "52513": {
+    "level": 7,
+    "short": "M6A2E1"
+  },
+  "13953": {
+    "level": 7,
+    "short": "Vz. 44-1"
+  },
+  "23841": {
+    "level": 7,
+    "short": "Super Hellcat"
+  },
+  "6705": {
+    "level": 2,
+    "short": "LT vz. 38"
+  },
+  "2865": {
+    "level": 8,
+    "short": "WZ-110"
+  },
+  "25377": {
+    "level": 8,
+    "short": "T77"
+  },
+  "1889": {
+    "level": 6,
+    "short": "Chi-To"
+  },
+  "1137": {
+    "level": 7,
+    "short": "Predator UM"
+  },
+  "26145": {
+    "level": 5,
+    "short": "High Score"
+  },
+  "18177": {
+    "level": 8,
+    "short": "Т-54 обл."
+  },
+  "18689": {
+    "level": 3,
+    "short": "Т-70/57"
+  },
+  "14705": {
+    "level": 9,
+    "short": "Fänrik"
+  },
+  "22017": {
+    "level": 6,
+    "short": "Т-34-85"
+  },
+  "1601": {
+    "level": 2,
+    "short": "D1"
+  },
+  "28193": {
+    "level": 8,
+    "short": "TS-60"
+  },
+  "1377": {
+    "level": 5,
+    "short": "Chi-Nu"
+  },
+  "16449": {
+    "level": 7,
+    "short": "AMX 13 57"
+  },
+  "10497": {
+    "level": 6,
+    "short": "КВ-2"
+  },
+  "9505": {
+    "level": 9,
+    "short": "M103"
+  },
+  "8321": {
+    "level": 7,
+    "short": "45TP Habicha"
+  },
+  "3089": {
+    "level": 1,
+    "short": "L.Tr."
+  },
+  "21537": {
+    "level": 6,
+    "short": "Sherman Easy 8"
+  },
+  "24097": {
+    "level": 6,
+    "short": "BLTZ9000"
+  },
+  "54785": {
+    "level": 6,
+    "short": "СУ-100Y"
+  },
+  "21585": {
+    "level": 6,
+    "short": "Blasteroid"
+  },
+  "55073": {
+    "level": 2,
+    "short": "T7 Car"
+  },
+  "14193": {
+    "level": 7,
+    "short": "Silencer"
+  },
+  "4113": {
+    "level": 7,
+    "short": "VK 30.02 D"
+  },
+  "24913": {
+    "level": 8,
+    "short": "Nemesis"
+  },
+  "52225": {
+    "level": 3,
+    "short": "БТ-СВ"
+  },
+  "15473": {
+    "level": 7,
+    "short": "Endurance"
+  },
+  "25361": {
+    "level": 9,
+    "short": "Waffenträger Ritter"
+  },
+  "4401": {
+    "level": 3,
+    "short": "Chi-Ha"
+  },
+  "23121": {
+    "level": 9,
+    "short": "Cobra"
+  },
+  "10817": {
+    "level": 7,
+    "short": "AMX AC 46"
+  },
+  "21761": {
+    "level": 8,
+    "short": "СТГ"
+  },
+  "19841": {
+    "level": 8,
+    "short": "SDP wz 66 Grom"
+  },
+  "14609": {
+    "level": 10,
+    "short": "Leopard 1"
+  },
+  "55313": {
+    "level": 8,
+    "short": "JgTig.8,8 cm"
+  },
+  "18241": {
+    "level": 8,
+    "short": "B-C Bourrasque"
+  },
+  "6193": {
+    "level": 8,
+    "short": "T-34-3"
+  },
+  "3857": {
+    "level": 7,
+    "short": "JPanther"
+  },
+  "15489": {
+    "level": 8,
+    "short": "CS-53"
+  },
+  "257": {
+    "level": 5,
+    "short": "СУ-85"
+  },
+  "1393": {
+    "level": 7,
+    "short": "Nameless"
+  },
+  "17281": {
+    "level": 9,
+    "short": "Progetto C50 mod. 66"
+  },
+  "2945": {
+    "level": 8,
+    "short": "Progetto 46"
+  },
+  "16465": {
+    "level": 1,
+    "short": "#uk_vehicles:GB03_Cruiser_Mk_I_tutorial_bot2_short"
+  },
+  "55889": {
+    "level": 6,
+    "short": "Cromwell B"
+  },
+  "51201": {
+    "level": 5,
+    "short": "КВ-220 Бета-Тест"
+  },
+  "51489": {
+    "level": 2,
+    "short": "T2 Light"
+  },
+  "4993": {
+    "level": 6,
+    "short": "P.43/06 ann."
+  },
+  "7265": {
+    "level": 6,
+    "short": "Ferrum"
+  },
+  "8817": {
+    "level": 5,
+    "short": "Titan Mk. I"
+  },
+  "22273": {
+    "level": 10,
+    "short": "Об. 260"
+  },
+  "12081": {
+    "level": 9,
+    "short": "BZ-68"
+  },
+  "8529": {
+    "level": 8,
+    "short": "AT 15"
+  },
+  "10865": {
+    "level": 8,
+    "short": "Fixer"
+  },
+  "18289": {
+    "level": 8,
+    "short": "Quetzal"
+  },
+  "6785": {
+    "level": 8,
+    "short": "Škoda T 27"
+  },
+  "14977": {
+    "level": 10,
+    "short": "CS-63"
+  },
+  "53841": {
+    "level": 6,
+    "short": "TOG II*"
+  },
+  "15617": {
+    "level": 10,
+    "short": "Об. 907"
+  },
+  "13889": {
+    "level": 10,
+    "short": "Foch 155"
+  },
+  "7441": {
+    "level": 9,
+    "short": "VK 45.02 B"
+  },
+  "29457": {
+    "level": 8,
+    "short": "VK 19.02“闪送宝”"
+  },
+  "20497": {
+    "level": 8,
+    "short": "VK 100.01 (P)"
+  },
+  "27681": {
+    "level": 6,
+    "short": "Pawlack Tank"
+  },
+  "22049": {
+    "level": 6,
+    "short": "Magnus"
+  },
+  "5921": {
+    "level": 8,
+    "short": "Pershing"
+  },
+  "65377": {
+    "level": 5,
+    "short": "Chi-Nu Kai"
+  },
+  "16705": {
+    "level": 8,
+    "short": "AMX M4 49"
+  },
+  "7025": {
+    "level": 7,
+    "short": "Vulcan"
+  },
+  "19985": {
+    "level": 8,
+    "short": "Skorpion G"
+  },
+  "18497": {
+    "level": 8,
+    "short": "Lorraine Бесстрашный"
+  },
+  "11297": {
+    "level": 8,
+    "short": "T28 Prot."
+  },
+  "21025": {
+    "level": 7,
+    "short": "T26E3 Eagle 7"
+  },
+  "8241": {
+    "level": 9,
+    "short": "WZ-111G FT"
+  },
+  "13873": {
+    "level": 9,
+    "short": "BZ-74-1"
+  },
+  "19329": {
+    "level": 9,
+    "short": "SDP 60 Gonkiewicza"
+  },
+  "17217": {
+    "level": 6,
+    "short": "Стиратель BP44"
+  },
+  "8001": {
+    "level": 8,
+    "short": "Lorraine 40 t"
+  },
+  "6913": {
+    "level": 4,
+    "short": "СУ-85Б"
+  },
+  "5457": {
+    "level": 7,
+    "short": "Comet"
+  },
+  "21825": {
+    "level": 9,
+    "short": "Projet Louis"
+  },
+  "9041": {
+    "level": 4,
+    "short": "Alecto"
+  },
+  "23633": {
+    "level": 5,
+    "short": "A25 Harry Hopkins I"
+  },
+  "57617": {
+    "level": 7,
+    "short": "Panther/M10"
+  },
+  "29217": {
+    "level": 9,
+    "short": "MBT-B"
+  },
+  "19233": {
+    "level": 8,
+    "short": "Chrysler K"
+  },
+  "13073": {
+    "level": 3,
+    "short": "Pz. II G"
+  },
+  "15393": {
+    "level": 9,
+    "short": "T54E1"
+  },
+  "12545": {
+    "level": 9,
+    "short": "К-91"
+  },
+  "9265": {
+    "level": 6,
+    "short": "Type 58"
+  },
+  "15729": {
+    "level": 8,
+    "short": "TSL-7 Defender"
+  },
+  "369": {
+    "level": 2,
+    "short": "Oth07_Nisen-Shago-Kai"
+  },
+  "65361": {
+    "level": 1,
+    "short": "Vickers Medium Mk. I"
+  },
+  "21521": {
+    "level": 8,
+    "short": "E 75 TS"
+  },
+  "53249": {
+    "level": 8,
+    "short": "КВ-5"
+  },
+  "3969": {
+    "level": 7,
+    "short": "Leo"
+  },
+  "52737": {
+    "level": 3,
+    "short": "М3 лёгкий"
+  },
+  "15745": {
+    "level": 7,
+    "short": "CS-44"
+  },
+  "64065": {
+    "level": 8,
+    "short": "FCM 50 t"
+  },
+  "7185": {
+    "level": 6,
+    "short": "VK 30.01 P"
+  },
+  "21329": {
+    "level": 8,
+    "short": "GSOR 1008"
+  },
+  "5681": {
+    "level": 10,
+    "short": "121B"
+  },
+  "10273": {
+    "level": 4,
+    "short": "M8A1"
+  },
+  "10801": {
+    "level": 6,
+    "short": "Паньлун"
+  },
+  "4417": {
+    "level": 10,
+    "short": "AMX M4 mle. 54"
+  },
+  "3697": {
+    "level": 7,
+    "short": "Lupus"
+  },
+  "513": {
+    "level": 7,
+    "short": "ИС"
+  },
+  "16401": {
+    "level": 9,
+    "short": "WT auf Pz. IV"
+  },
+  "6769": {
+    "level": 7,
+    "short": "Oth21_Elefant"
+  },
+  "3121": {
+    "level": 4,
+    "short": "M5A1 Stuart"
+  },
+  "27169": {
+    "level": 6,
+    "short": "Киборг"
+  },
+  "6225": {
+    "level": 10,
+    "short": "FV215b"
+  },
+  "6513": {
+    "level": 7,
+    "short": "Oth14_MdM_AshKnight_test"
+  },
+  "54529": {
+    "level": 2,
+    "short": "Тетрарх"
+  },
+  "12849": {
+    "level": 10,
+    "short": "116-F3"
+  },
+  "9009": {
+    "level": 6,
+    "short": "Бык"
+  },
+  "9809": {
+    "level": 6,
+    "short": "Churchill GC"
+  },
+  "3201": {
+    "level": 9,
+    "short": "50TP prototyp"
+  },
+  "9073": {
+    "level": 8,
+    "short": "Titan-54d"
+  },
+  "19745": {
+    "level": 8,
+    "short": "T26E5"
+  },
+  "16257": {
+    "level": 6,
+    "short": "Outcast"
+  },
+  "60177": {
+    "level": 8,
+    "short": "Panther 8,8"
+  },
+  "18801": {
+    "level": 9,
+    "short": "mau5Tank"
+  },
+  "17729": {
+    "level": 8,
+    "short": "Somua SM"
+  },
+  "64801": {
+    "level": 8,
+    "short": "T34 (1776)"
+  },
+  "6529": {
+    "level": 6,
+    "short": "Škoda T 25"
+  },
+  "6977": {
+    "level": 7,
+    "short": "AMX M4 45"
+  },
+  "7473": {
+    "level": 7,
+    "short": "T-34-2G FT"
+  },
+  "13185": {
+    "level": 10,
+    "short": "Vz. 55"
+  },
+  "1809": {
+    "level": 4,
+    "short": "Hetzer"
+  },
+  "16001": {
+    "level": 6,
+    "short": "B.U.G.I."
+  },
+  "13857": {
+    "level": 10,
+    "short": "T110E3"
+  },
+  "13105": {
+    "level": 9,
+    "short": "BZ-176"
+  },
+  "6449": {
+    "level": 10,
+    "short": "WZ-113G FT"
+  },
+  "19489": {
+    "level": 8,
+    "short": "T28 Defender"
+  },
+  "27153": {
+    "level": 7,
+    "short": "Aufkl. Panther"
+  },
+  "52241": {
+    "level": 4,
+    "short": "Pz. B2"
+  },
+  "3889": {
+    "level": 8,
+    "short": "WZ-132"
+  },
+  "10001": {
+    "level": 6,
+    "short": "VK 28.01"
+  },
+  "65297": {
+    "level": 1,
+    "short": "Leichttraktor"
+  },
+  "60417": {
+    "level": 8,
+    "short": "ИС-3 Защитник"
+  },
+  "20817": {
+    "level": 6,
+    "short": "Эксплорер"
+  },
+  "22817": {
+    "level": 10,
+    "short": "M-VI-Yoh"
+  },
+  "14097": {
+    "level": 6,
+    "short": "VK 30.01 D"
+  },
+  "12929": {
+    "level": 9,
+    "short": "TNH T Vz. 51"
+  },
+  "2145": {
+    "level": 3,
+    "short": "Chi-Ha"
+  },
+  "19521": {
+    "level": 9,
+    "short": "B-C 25 t Avenir"
+  },
+  "21313": {
+    "level": 7,
+    "short": "AMX 13 M24"
+  },
+  "65041": {
+    "level": 1,
+    "short": "Leichttraktor"
+  },
+  "10513": {
+    "level": 8,
+    "short": "VK 45.02 A"
+  },
+  "5473": {
+    "level": 5,
+    "short": "Mitsu 108"
+  },
+  "65105": {
+    "level": 1,
+    "short": "Vickers Medium Mk. I"
+  },
+  "6481": {
+    "level": 4,
+    "short": "Covenanter"
+  },
+  "19969": {
+    "level": 10,
+    "short": "Т-22 ср."
+  },
+  "3329": {
+    "level": 1,
+    "short": "МС-1 обр. 1"
+  },
+  "11569": {
+    "level": 9,
+    "short": "BZ-58-2"
+  },
+  "3681": {
+    "level": 10,
+    "short": "STB-1"
+  },
+  "545": {
+    "level": 1,
+    "short": "T1"
+  },
+  "19009": {
+    "level": 6,
+    "short": "AMXmas"
+  },
+  "23825": {
+    "level": 7,
+    "short": "Steyr WT"
+  },
+  "33": {
+    "level": 5,
+    "short": "T14"
+  },
+  "10529": {
+    "level": 5,
+    "short": "T67"
+  },
+  "2161": {
+    "level": 7,
+    "short": "WZ Пылающий"
+  },
+  "1633": {
+    "level": 4,
+    "short": "Chi-He"
+  },
+  "5889": {
+    "level": 7,
+    "short": "КВ-3"
+  },
+  "23073": {
+    "level": 9,
+    "short": "M-V-Yoh"
+  },
+  "17473": {
+    "level": 8,
+    "short": "AMX Defender"
+  },
+  "51457": {
+    "level": 5,
+    "short": "Матильда IV"
+  },
+  "25105": {
+    "level": 6,
+    "short": "Barkhan"
+  },
+  "3137": {
+    "level": 8,
+    "short": "AMX 50 100"
+  },
+  "12337": {
+    "level": 7,
+    "short": "BZ-58"
+  },
+  "64593": {
+    "level": 5,
+    "short": "Коннор Гневный"
+  },
+  "27409": {
+    "level": 9,
+    "short": "Projekt Kpz. 07P(E)"
+  },
+  "18257": {
+    "level": 7,
+    "short": "Challenger"
+  },
+  "65329": {
+    "level": 7,
+    "short": "Type 62"
+  },
+  "63505": {
+    "level": 8,
+    "short": "Tank_1_test"
+  },
+  "15937": {
+    "level": 1,
+    "short": "R35"
+  },
+  "15137": {
+    "level": 6,
+    "short": "T21"
+  },
+  "54097": {
+    "level": 7,
+    "short": "AT 15A"
+  },
+  "10785": {
+    "level": 10,
+    "short": "T110E5"
+  },
+  "5713": {
+    "level": 9,
+    "short": "Centurion 7/1"
+  },
+  "13569": {
+    "level": 10,
+    "short": "Об. 268"
+  },
+  "577": {
+    "level": 1,
+    "short": "FT"
+  },
+  "51809": {
+    "level": 3,
+    "short": "Ke-Ni Otsu"
+  },
+  "6721": {
+    "level": 5,
+    "short": "BDR G1 B"
+  },
+  "25121": {
+    "level": 9,
+    "short": "M46 Jaguar"
+  },
+  "17009": {
+    "level": 9,
+    "short": "KV-JR"
+  },
+  "18545": {
+    "level": 9,
+    "short": "Argonaut"
+  },
+  "7777": {
+    "level": 8,
+    "short": "Type 63"
+  },
+  "16769": {
+    "level": 8,
+    "short": "SMV Vipera"
+  },
+  "8497": {
+    "level": 10,
+    "short": "WZ-111 5A"
+  },
+  "6497": {
+    "level": 9,
+    "short": "Type 68"
+  },
+  "14129": {
+    "level": 10,
+    "short": "BZT-70"
+  },
+  "6241": {
+    "level": 8,
+    "short": "Chi-Se"
+  },
+  "19265": {
+    "level": 6,
+    "short": "Шарль"
+  },
+  "2913": {
+    "level": 4,
+    "short": "Ke-Ho"
+  },
+  "18561": {
+    "level": 6,
+    "short": "SDP 44 Burza"
+  },
+  "15233": {
+    "level": 9,
+    "short": "CS-59"
+  },
+  "17233": {
+    "level": 9,
+    "short": "Conway"
+  },
+  "5761": {
+    "level": 9,
+    "short": "Škoda T 50"
+  },
+  "801": {
+    "level": 6,
+    "short": "M6"
+  },
+  "3345": {
+    "level": 3,
+    "short": "Pz. 38 (t)"
+  },
+  "22289": {
+    "level": 6,
+    "short": "Tiger I"
+  },
+  "27425": {
+    "level": 9,
+    "short": "TL-7-120"
+  },
+  "9985": {
+    "level": 8,
+    "short": "СУ-101"
+  },
+  "15953": {
+    "level": 7,
+    "short": "FV201 (A45)"
+  },
+  "3185": {
+    "level": 7,
+    "short": "Mech_Ger"
+  },
+  "22353": {
+    "level": 6,
+    "short": "Churchill W"
+  },
+  "13089": {
+    "level": 10,
+    "short": "T110E4"
+  },
+  "6177": {
+    "level": 2,
+    "short": "T18"
+  },
+  "28705": {
+    "level": 10,
+    "short": "XM66F"
+  },
+  "7521": {
+    "level": 8,
+    "short": "Type 5 Ka-Ri"
+  },
+  "16497": {
+    "level": 7,
+    "short": "E-10"
+  },
+  "7713": {
+    "level": 4,
+    "short": "T40"
+  },
+  "8273": {
+    "level": 2,
+    "short": "UC 2-pdr"
+  },
+  "12673": {
+    "level": 8,
+    "short": "Tornvagn"
+  },
+  "27137": {
+    "level": 8,
+    "short": "К-2"
+  },
+  "12097": {
+    "level": 8,
+    "short": "AMX AC 48"
+  },
+  "11777": {
+    "level": 5,
+    "short": "КВ-1"
+  },
+  "64081": {
+    "level": 1,
+    "short": "Mk I* Heavy Tank"
+  },
+  "16193": {
+    "level": 8,
+    "short": "M4A1 Rev."
+  },
+  "11905": {
+    "level": 6,
+    "short": "Мракоборец"
+  },
+  "17793": {
+    "level": 10,
+    "short": "Rinoceronte"
+  },
+  "6017": {
+    "level": 8,
+    "short": "TVP VTU"
+  },
+  "8209": {
+    "level": 4,
+    "short": "Pz. 38 nA"
+  },
+  "8257": {
+    "level": 3,
+    "short": "UE 57"
+  },
+  "13681": {
+    "level": 6,
+    "short": "Oth63_Pz_VllF_Set"
+  },
+  "2577": {
+    "level": 5,
+    "short": "VK 30.01 H"
+  },
+  "22785": {
+    "level": 6,
+    "short": "Триумфатор"
+  },
+  "21057": {
+    "level": 10,
+    "short": "Projet Murat"
+  },
+  "1313": {
+    "level": 6,
+    "short": "M4A3E8"
+  },
+  "51729": {
+    "level": 3,
+    "short": "Pz. II J"
+  },
+  "7201": {
+    "level": 6,
+    "short": "Jackson"
+  },
+  "12289": {
+    "level": 10,
+    "short": "IS-7_test"
+  },
+  "53505": {
+    "level": 3,
+    "short": "Т-127"
+  },
+  "8065": {
+    "level": 6,
+    "short": "40TP Habicha"
+  },
+  "5665": {
+    "level": 2,
+    "short": "T2 Medium"
+  },
+  "22337": {
+    "level": 8,
+    "short": "Sentinelle"
+  },
+  "8577": {
+    "level": 8,
+    "short": "Lansen C"
+  },
+  "9553": {
+    "level": 6,
+    "short": "AT 8"
+  },
+  "24081": {
+    "level": 6,
+    "short": "U-Panzer"
+  },
+  "7953": {
+    "level": 9,
+    "short": "Jagdtiger"
+  },
+  "11265": {
+    "level": 6,
+    "short": "Т-150"
+  },
+  "5489": {
+    "level": 5,
+    "short": "Y5 T-34"
+  },
+  "7553": {
+    "level": 9,
+    "short": "50TP Tyszkiewicza"
+  },
+  "8785": {
+    "level": 5,
+    "short": "AT 2"
+  },
+  "53025": {
+    "level": 8,
+    "short": "M6A2E1 EXP"
+  },
+  "1041": {
+    "level": 5,
+    "short": "StuG III G"
+  },
+  "54545": {
+    "level": 5,
+    "short": "T-25"
+  },
+  "1569": {
+    "level": 7,
+    "short": "T20"
+  },
+  "11041": {
+    "level": 7,
+    "short": "T25/2"
+  },
+  "15985": {
+    "level": 8,
+    "short": "Toxique"
+  },
+  "2385": {
+    "level": 3,
+    "short": "Medium III"
+  },
+  "14449": {
+    "level": 8,
+    "short": "Swindler"
+  },
+  "17777": {
+    "level": 8,
+    "short": "Titan Strife"
+  },
+  "11121": {
+    "level": 9,
+    "short": "Regressor"
+  },
+  "13937": {
+    "level": 7,
+    "short": "Oth64_Pz_VlllK_Set"
+  },
+  "18049": {
+    "level": 10,
+    "short": "Lion"
+  },
+  "22545": {
+    "level": 8,
+    "short": "Kanonenjagdpanzer"
+  },
+  "19281": {
+    "level": 10,
+    "short": "Super Conqueror"
+  },
+  "19073": {
+    "level": 8,
+    "short": "SDP 58 Kilana"
+  },
+  "64273": {
+    "level": 8,
+    "short": "JgTig.8,8 cm (2015)"
+  },
+  "8833": {
+    "level": 6,
+    "short": "Spark"
+  },
+  "19313": {
+    "level": 8,
+    "short": "Prowler"
+  },
+  "9089": {
+    "level": 8,
+    "short": "Škoda T 56"
+  },
+  "6417": {
+    "level": 5,
+    "short": "Pz. III/IV"
+  },
+  "23297": {
+    "level": 6,
+    "short": "Объект 244"
+  },
+  "1857": {
+    "level": 9,
+    "short": "B-C 25 t AP"
+  },
+  "4385": {
+    "level": 8,
+    "short": "T32"
+  },
+  "11585": {
+    "level": 6,
+    "short": "ARL V39"
+  },
+  "28177": {
+    "level": 9,
+    "short": "LKpz.70 K"
+  },
+  "51473": {
+    "level": 5,
+    "short": "Pz. V/IV"
+  },
+  "51713": {
+    "level": 5,
+    "short": "Черчилль III"
+  },
+  "1905": {
+    "level": 8,
+    "short": "O-47"
+  },
+  "21841": {
+    "level": 8,
+    "short": "Caliban"
+  },
+  "10113": {
+    "level": 10,
+    "short": "Carro 45t"
+  },
+  "56577": {
+    "level": 3,
+    "short": "ЛТП"
+  },
+  "11553": {
+    "level": 6,
+    "short": "Hellcat"
+  },
+  "19537": {
+    "level": 10,
+    "short": "Vickers Light"
+  },
+  "59905": {
+    "level": 8,
+    "short": "Т-54 обр. 1"
+  },
+  "59665": {
+    "level": 3,
+    "short": "Großtraktor"
+  },
+  "22529": {
+    "level": 8,
+    "short": "ЛТ-432"
+  },
+  "10257": {
+    "level": 9,
+    "short": "E 50"
+  },
+  "64257": {
+    "level": 6,
+    "short": "T-34-85 Победный"
+  },
+  "10369": {
+    "level": 10,
+    "short": "Minotauro"
+  },
+  "5169": {
+    "level": 6,
+    "short": "Type 58"
+  },
+  "26657": {
+    "level": 8,
+    "short": "ASTRON Rex"
+  },
+  "21569": {
+    "level": 8,
+    "short": "ERAC 105 Proto"
+  },
+  "20753": {
+    "level": 9,
+    "short": "Mäuschen"
+  },
+  "13361": {
+    "level": 8,
+    "short": "Type 59"
+  },
+  "29713": {
+    "level": 9,
+    "short": "G168_KJpz_T_III"
+  },
+  "5985": {
+    "level": 7,
+    "short": "Ju-To"
+  },
+  "20257": {
+    "level": 10,
+    "short": "Sheridan"
+  },
+  "16673": {
+    "level": 6,
+    "short": "T37"
+  },
+  "2129": {
+    "level": 5,
+    "short": "Crusader"
+  },
+  "14113": {
+    "level": 10,
+    "short": "M48 Patton"
+  },
+  "27921": {
+    "level": 9,
+    "short": "Erich Konzept I"
+  },
+  "3921": {
+    "level": 8,
+    "short": "Caernarvon"
+  },
+  "20481": {
+    "level": 8,
+    "short": "Об. 252У"
+  },
+  "64001": {
+    "level": 7,
+    "short": "T-34-85 Rudy"
+  },
+  "4145": {
+    "level": 10,
+    "short": "WZ-121"
+  },
+  "26913": {
+    "level": 6,
+    "short": "Frosty"
+  },
+  "11313": {
+    "level": 7,
+    "short": "Type 58 50-08"
+  },
+  "11057": {
+    "level": 10,
+    "short": "114 SP2"
+  },
+  "5969": {
+    "level": 8,
+    "short": "Centurion I"
+  },
+  "55297": {
+    "level": 7,
+    "short": "СУ-122-44"
+  },
+  "65313": {
+    "level": 1,
+    "short": "T1 Cunningham"
+  },
+  "5201": {
+    "level": 2,
+    "short": "Cruiser I"
+  },
+  "7809": {
+    "level": 8,
+    "short": "53TP Markowskiego"
+  },
+  "5121": {
+    "level": 2,
+    "short": "АТ-1"
+  },
+  "4209": {
+    "level": 1,
+    "short": "WarDuck"
+  },
+  "6961": {
+    "level": 8,
+    "short": "WZ-120-1G FT"
+  },
+  "24833": {
+    "level": 10,
+    "short": "IS-7CL"
+  },
+  "20001": {
+    "level": 9,
+    "short": "T92E1"
+  },
+  "24849": {
+    "level": 6,
+    "short": "Kryos"
+  },
+  "7281": {
+    "level": 7,
+    "short": "Ликан"
+  },
+  "11377": {
+    "level": 7,
+    "short": "Basilisk"
+  },
+  "897": {
+    "level": 8,
+    "short": "P.44 Pantera"
+  },
+  "3377": {
+    "level": 7,
+    "short": "WZ-131"
+  },
+  "18465": {
+    "level": 1,
+    "short": "M2 Light Tank"
+  },
+  "63585": {
+    "level": 6,
+    "short": "Tiger Kuromorimine SP"
+  },
+  "7537": {
+    "level": 5,
+    "short": "Кошмар"
+  },
+  "4433": {
+    "level": 9,
+    "short": "Conqueror"
+  },
+  "8193": {
+    "level": 9,
+    "short": "Об. 704"
+  },
+  "7425": {
+    "level": 8,
+    "short": "ИСУ-152"
+  },
+  "18753": {
+    "level": 8,
+    "short": "AMX CDA 105"
+  },
+  "11889": {
+    "level": 8,
+    "short": "Nebulon"
+  },
+  "24657": {
+    "level": 7,
+    "short": "A46 Different"
+  },
+  "8049": {
+    "level": 5,
+    "short": "Шип"
+  },
+  "769": {
+    "level": 3,
+    "short": "БТ-7"
+  },
+  "26897": {
+    "level": 8,
+    "short": "Kpz. Pr.68 (P)"
+  },
+  "21793": {
+    "level": 10,
+    "short": "Sheridan Ракетный"
+  },
+  "1089": {
+    "level": 4,
+    "short": "B1"
+  },
+  "20993": {
+    "level": 8,
+    "short": "Т-2020"
+  },
+  "10353": {
+    "level": 7,
+    "short": "Фараон"
+  },
+  "9521": {
+    "level": 8,
+    "short": "WZ-122 TM"
+  },
+  "2097": {
+    "level": 9,
+    "short": "WZ-111 1-4"
+  },
+  "13841": {
+    "level": 8,
+    "short": "Indien-Pz."
+  },
+  "15649": {
+    "level": 7,
+    "short": "T71"
+  },
+  "4689": {
+    "level": 6,
+    "short": "Churchill VII"
+  },
+  "28449": {
+    "level": 7,
+    "short": "T42"
+  },
+  "52257": {
+    "level": 5,
+    "short": "M4A2E4"
+  },
+  "11825": {
+    "level": 10,
+    "short": "BZ-75"
+  },
+  "27393": {
+    "level": 8,
+    "short": "Об. «Куст»"
+  },
+  "529": {
+    "level": 7,
+    "short": "Tiger I"
+  },
+  "19201": {
+    "level": 1,
+    "short": "Т-26"
+  },
+  "4449": {
+    "level": 7,
+    "short": "IS-2 Pravda SP"
+  },
+  "1841": {
+    "level": 9,
+    "short": "WZ-120"
+  },
+  "2689": {
+    "level": 1,
+    "short": "Vickers Mk. F"
+  },
+  "27665": {
+    "level": 8,
+    "short": "Schwarzpanzer 58"
+  },
+  "16977": {
+    "level": 1,
+    "short": "GB69_Cruiser_Mk_II_tutorial_bot2"
+  },
+  "20305": {
+    "level": 8,
+    "short": "Centurion Mk. 5/1 RAAC"
+  },
+  "6753": {
+    "level": 10,
+    "short": "Type 71"
+  },
+  "2401": {
+    "level": 3,
+    "short": "Ke-Ni"
+  },
+  "5153": {
+    "level": 3,
+    "short": "M5 Stuart"
+  },
+  "65025": {
+    "level": 1,
+    "short": "МС-1 обр. 1"
+  },
+  "9249": {
+    "level": 7,
+    "short": "T25 AT"
+  },
+  "8737": {
+    "level": 9,
+    "short": "T95"
+  },
+  "1649": {
+    "level": 7,
+    "short": "Хелсинг"
+  },
+  "6001": {
+    "level": 7,
+    "short": "Y5 ELC bis"
+  },
+  "14465": {
+    "level": 5,
+    "short": "DS PZInż"
+  },
+  "7217": {
+    "level": 8,
+    "short": "WZ-112-2"
+  },
+  "23313": {
+    "level": 10,
+    "short": "Kpz 50 t"
+  },
+  "65281": {
+    "level": 1,
+    "short": "МС-1 обр. 1"
+  },
+  "11537": {
+    "level": 8,
+    "short": "JPanther II"
+  },
+  "6161": {
+    "level": 4,
+    "short": "Luchs"
+  },
+  "26113": {
+    "level": 9,
+    "short": "Объект 452К"
+  },
+  "18721": {
+    "level": 1,
+    "short": "M2 Light Tank"
+  },
+  "19585": {
+    "level": 10,
+    "short": "NC 70 Błyskawica"
+  },
+  "19729": {
+    "level": 6,
+    "short": "Tiger 131"
+  },
+  "23377": {
+    "level": 8,
+    "short": "FV1066 Senlac"
+  },
+  "4705": {
+    "level": 6,
+    "short": "Firefly Saunders SP"
+  },
+  "12033": {
+    "level": 9,
+    "short": "СУ-122-54"
+  },
+  "18817": {
+    "level": 7,
+    "short": "SDP 57 Gowika"
+  },
+  "20849": {
+    "level": 9,
+    "short": "FVE Defender"
+  },
+  "12305": {
+    "level": 10,
+    "short": "E 50 M"
+  },
+  "9841": {
+    "level": 6,
+    "short": "Rover"
+  },
+  "55057": {
+    "level": 5,
+    "short": "Pz. IV hydr."
+  },
+  "8225": {
+    "level": 8,
+    "short": "T28"
+  },
+  "14881": {
+    "level": 10,
+    "short": "T57 Heavy"
+  },
+  "6257": {
+    "level": 7,
+    "short": "M4/FL10"
+  }
+}
