@@ -1932,7 +1932,7 @@
     "short": "M46 Jaguar"
   },
   "11281": {
-    "level": 9,
+    "level": 10,
     "short": "Kpz 70"
   },
   "2849": {
@@ -2934,5 +2934,33 @@
   "25361": {
     "level": 9,
     "short": "Waffenträger Ritter"
+  },
+  "20081": {
+    "level": 9,
+    "short": "AC-09 Celeno"
+  },
+  "20337": {
+    "level": 9,
+    "short": "AC-08 Taygete"
+  },
+  "22641": {
+    "level": 8,
+    "short": "Конвоир"
+  },
+  "13937": {
+    "level": 7,
+    "short": "AC-07 Rebelde"
+  },
+  "13681": {
+    "level": 6,
+    "short": "AC-06 Ocelote"
+  },
+  "13425": {
+    "level": 5,
+    "short": "AC-05 Highlander"
+  },
+  "13169": {
+    "level": 4,
+    "short": "AC-04 Wedger"
   }
 }
