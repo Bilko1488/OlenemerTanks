@@ -3639,7 +3639,8 @@
   "19585": {
     "level": 10,
     "short": "NC 70 Błyskawica",
-    "class": "AT-SPG"
+    "class": "AT-SPG",
+    "testTank": true
   },
   "19841": {
     "level": 8,
