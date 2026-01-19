@@ -297,8 +297,7 @@
   "55297": {
     "level": 7,
     "short": "СУ-122-44",
-    "class": "AT-SPG",
-    "testTank": true
+    "class": "AT-SPG"
   },
   "56577": {
     "level": 3,
