@@ -1,16 +1,31 @@
 {
-  "version": "",
-  "released": "",
-  "download_url": "",
+  "version": "1.5.0",
+  "released": "2026-01-20T18:00:00Z",
+  "download_url": "https://forblitz.ru/modifications/other/olenemer-xvm-extended-visualization-mod/23398",
   "changelog_ru": "",
   "changelog_en": "",
   "changelog_uk": "",
   "nick_replacements": {
-    "wg": [],
-    "lesta": []
+    "wg": [
+      {
+        "original": "__Bilko__",
+        "replacement": "Слоняра"
+      }
+    ],
+    "lesta": [
+      {
+        "original": "ExamplePlayer",
+        "replacement": "HiddenPlayer"
+      }
+    ]
   },
   "blocked_users": {
     "wg": [],
-    "lesta": []
+    "lesta": [
+      {
+        "account_id": 987654321,
+        "reason": "Нарушение правил использования"
+      }
+    ]
   }
 }
