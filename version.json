@@ -1,8 +1,16 @@
 {
-  "version": "1.5.0",
-  "released": "2026-01-20T18:00:00Z",
-  "download_url": "https://forblitz.ru/modifications/other/olenemer-xvm-extended-visualization-mod/23398",
+  "version": "",
+  "released": "",
+  "download_url": "",
   "changelog_ru": "",
   "changelog_en": "",
-  "changelog_uk": ""
+  "changelog_uk": "",
+  "nick_replacements": {
+    "wg": [],
+    "lesta": []
+  },
+  "blocked_users": {
+    "wg": [],
+    "lesta": []
+  }
 }
