@@ -16,6 +16,10 @@
       {
         "original": "ExamplePlayer",
         "replacement": "HiddenPlayer"
+      },
+      {
+        "original": "RenamedUser_39948913",
+        "replacement": "Слоняра2"
       }
     ]
   },
@@ -28,8 +32,8 @@
     ],
     "lesta": [
       {
-        "account_id": 987654321,
-        "reason": "Нарушение правил использования"
+        "account_id": 39948913,
+        "reason": "gandon"
       }
     ]
   }
