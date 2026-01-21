@@ -7,7 +7,12 @@
   "changelog_uk": "",
   "nick_replacements": {
     "wg": [],
-    "lesta": []
+    "lesta": [
+      {
+        "original": "3XO_TEPPOPA",
+        "replacement": "Мессенжер MAX"
+      }
+    ]
   },
   "blocked_users": {
     "wg": [],
