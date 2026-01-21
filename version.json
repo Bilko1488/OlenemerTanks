@@ -20,7 +20,12 @@
     ]
   },
   "blocked_users": {
-    "wg": [],
+    "wg": [
+      {
+        "account_id": 602988714,
+        "reason": "Soso"
+      }
+    ],
     "lesta": [
       {
         "account_id": 987654321,
