@@ -587,6 +587,11 @@
   "30465": {
     "level": 8,
     "short": "Объект 703 II",
+    "class": "heavyTank"
+  },
+  "30721": {
+    "level": 10,
+    "short": "СТ-II",
     "class": "heavyTank",
     "testTank": true
   },
@@ -1756,6 +1761,11 @@
     "short": "T69 Defender",
     "class": "mediumTank"
   },
+  "31521": {
+    "level": 8,
+    "short": "T49 Defender",
+    "class": "lightTank"
+  },
   "49": {
     "level": 8,
     "short": "Type 59",
@@ -2305,6 +2315,12 @@
     "level": 10,
     "short": "Projet Murat",
     "class": "mediumTank"
+  },
+  "21569": {
+    "level": 9,
+    "short": "Lorraine 50 t",
+    "class": "heavyTank",
+    "testTank": true
   },
   "81": {
     "level": 1,
@@ -3160,6 +3176,12 @@
     "level": 7,
     "short": "Биоморф",
     "class": "heavyTank"
+  },
+  "18545": {
+    "level": 10,
+    "short": "МБ-85 Бор",
+    "class": "mediumTank",
+    "testTank": true
   },
   "385": {
     "level": 10,
