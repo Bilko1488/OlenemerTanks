@@ -13,7 +13,7 @@
       },
       {
         "original": "Harington_Blitz",
-        "replacement": "Писюн 3 см"
+        "replacement": "Писюн 2 см"
       }
     ],
     "lesta": [
@@ -24,12 +24,7 @@
     ]
   },
   "blocked_users": {
-    "wg": [
-      {
-        "account_id": 597631647,
-        "reason": "Петух"
-      }
-    ],
+    "wg": [],
     "lesta": []
   }
 }
