@@ -24,7 +24,12 @@
     ]
   },
   "blocked_users": {
-    "wg": [],
+    "wg": [
+      {
+        "account_id": 597631647,
+        "reason": "Петух"
+      }
+    ],
     "lesta": []
   }
 }
