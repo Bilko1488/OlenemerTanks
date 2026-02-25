@@ -595,6 +595,18 @@
     "class": "heavyTank",
     "testTank": true
   },
+  "31489": {
+    "level": 8,
+    "short": "Об. 259А",
+    "class": "heavyTank",
+    "testTank": true
+  },
+  "32001": {
+    "level": 9,
+    "short": "К-91-ПТ",
+    "class": "AT-SPG",
+    "testTank": true
+  },
   "17": {
     "level": 5,
     "short": "Pz. IV G",
@@ -1183,8 +1195,7 @@
   "29201": {
     "level": 10,
     "short": "StuG Maus",
-    "class": "AT-SPG",
-    "testTank": true
+    "class": "AT-SPG"
   },
   "33": {
     "level": 5,
@@ -2319,8 +2330,7 @@
   "21569": {
     "level": 9,
     "short": "Lorraine 50 t",
-    "class": "heavyTank",
-    "testTank": true
+    "class": "heavyTank"
   },
   "81": {
     "level": 1,
@@ -3180,8 +3190,7 @@
   "18545": {
     "level": 10,
     "short": "МБ-85 Бор",
-    "class": "mediumTank",
-    "testTank": true
+    "class": "mediumTank"
   },
   "385": {
     "level": 10,
