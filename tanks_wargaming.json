@@ -410,7 +410,7 @@
     "class": "AT-SPG"
   },
   "20993": {
-    "level": 8,
+    "level": 9,
     "short": "Т-2020",
     "class": "heavyTank"
   },
@@ -995,7 +995,7 @@
     "class": "heavyTank"
   },
   "22545": {
-    "level": 8,
+    "level": 9,
     "short": "Kanonenjagdpanzer",
     "class": "AT-SPG"
   },
@@ -1665,7 +1665,7 @@
     "class": "lightTank"
   },
   "28193": {
-    "level": 8,
+    "level": 9,
     "short": "TS-60",
     "class": "AT-SPG"
   },
@@ -3255,11 +3255,15 @@
     "class": "mediumTank",
     "testTank": true
   },
+  "22385": {
+    "level": 8,
+    "short": "Titan JPanther II",
+    "class": "AT-SPG"
+  },
   "22641": {
     "level": 8,
     "short": "Конвоир",
-    "class": "heavyTank",
-    "testTank": true
+    "class": "heavyTank"
   },
   "385": {
     "level": 10,
@@ -3502,7 +3506,7 @@
     "class": "heavyTank"
   },
   "12673": {
-    "level": 8,
+    "level": 9,
     "short": "Tornvagn",
     "class": "heavyTank"
   },
@@ -3650,5 +3654,11 @@
     "level": 10,
     "short": "Felice",
     "class": "heavyTank"
+  },
+  "21889": {
+    "level": 8,
+    "short": "56TP",
+    "class": "heavyTank",
+    "testTank": true
   }
 }
