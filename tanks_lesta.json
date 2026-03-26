@@ -592,13 +592,28 @@
   "30721": {
     "level": 10,
     "short": "СТ-II",
-    "class": "heavyTank",
-    "testTank": true
+    "class": "heavyTank"
+  },
+  "30977": {
+    "level": 9,
+    "short": "ИС-3-II",
+    "class": "heavyTank"
+  },
+  "31233": {
+    "level": 8,
+    "short": "ИС-2-II",
+    "class": "heavyTank"
   },
   "31489": {
     "level": 8,
     "short": "Об. 259А",
     "class": "heavyTank",
+    "testTank": true
+  },
+  "31745": {
+    "level": 9,
+    "short": "ИСУ-152К",
+    "class": "AT-SPG",
     "testTank": true
   },
   "32001": {
@@ -2900,7 +2915,8 @@
   "17265": {
     "level": 10,
     "short": "Протей",
-    "class": "AT-SPG"
+    "class": "AT-SPG",
+    "testTank": false
   },
   "625": {
     "level": 6,
