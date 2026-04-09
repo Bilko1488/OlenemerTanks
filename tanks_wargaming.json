@@ -970,7 +970,7 @@
     "class": "mediumTank"
   },
   "21265": {
-    "level": 8,
+    "level": 9,
     "short": "VK 168.01 (P)",
     "class": "heavyTank"
   },
@@ -1694,6 +1694,12 @@
     "short": "ATAC",
     "class": "lightTank"
   },
+  "29985": {
+    "level": 10,
+    "short": "SPHT",
+    "class": "heavyTank",
+    "testTank": true
+  },
   "49": {
     "level": 8,
     "short": "Type 59",
@@ -1810,12 +1816,12 @@
     "class": "mediumTank"
   },
   "5937": {
-    "level": 8,
+    "level": 9,
     "short": "59-Patton",
     "class": "mediumTank"
   },
   "6193": {
-    "level": 8,
+    "level": 9,
     "short": "T-34-3",
     "class": "mediumTank"
   },
@@ -2175,7 +2181,7 @@
     "class": "lightTank"
   },
   "17729": {
-    "level": 8,
+    "level": 9,
     "short": "Somua SM",
     "class": "heavyTank"
   },
@@ -2268,6 +2274,12 @@
     "level": 8,
     "short": "Sentinelle",
     "class": "heavyTank"
+  },
+  "22849": {
+    "level": 8,
+    "short": "Brennos",
+    "class": "heavyTank",
+    "testTank": true
   },
   "81": {
     "level": 1,
@@ -2670,7 +2682,7 @@
     "class": "AT-SPG"
   },
   "24401": {
-    "level": 8,
+    "level": 9,
     "short": "Vickers MBT",
     "class": "mediumTank"
   },
@@ -2868,6 +2880,12 @@
     "level": 8,
     "short": "Type 95 Ji-Ro",
     "class": "AT-SPG"
+  },
+  "9057": {
+    "level": 10,
+    "short": "Type 5 H Zetsu",
+    "class": "heavyTank",
+    "testTank": true
   },
   "625": {
     "level": 6,
