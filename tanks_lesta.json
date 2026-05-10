@@ -607,8 +607,7 @@
   "31489": {
     "level": 8,
     "short": "Об. 259А",
-    "class": "heavyTank",
-    "testTank": true
+    "class": "heavyTank"
   },
   "31745": {
     "level": 9,
