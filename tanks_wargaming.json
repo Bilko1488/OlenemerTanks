@@ -1697,8 +1697,7 @@
   "29985": {
     "level": 10,
     "short": "SPHT",
-    "class": "heavyTank",
-    "testTank": true
+    "class": "heavyTank"
   },
   "49": {
     "level": 8,
@@ -2278,8 +2277,7 @@
   "22849": {
     "level": 8,
     "short": "Brennos",
-    "class": "heavyTank",
-    "testTank": true
+    "class": "heavyTank"
   },
   "81": {
     "level": 1,
@@ -2885,6 +2883,12 @@
     "level": 10,
     "short": "Type 5 H Zetsu",
     "class": "heavyTank",
+    "testTank": true
+  },
+  "10337": {
+    "level": 9,
+    "short": "Kame",
+    "class": "mediumTank",
     "testTank": true
   },
   "625": {
@@ -3676,6 +3680,23 @@
   "21889": {
     "level": 8,
     "short": "56TP",
+    "class": "heavyTank"
+  },
+  "22145": {
+    "level": 8,
+    "short": "Bofors Triton",
+    "class": "mediumTank",
+    "testTank": true
+  },
+  "22401": {
+    "level": 9,
+    "short": "Ambassador",
+    "class": "mediumTank",
+    "testTank": true
+  },
+  "22657": {
+    "level": 9,
+    "short": "Toro",
     "class": "heavyTank",
     "testTank": true
   }
