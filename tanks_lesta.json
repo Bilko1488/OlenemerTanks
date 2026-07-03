@@ -612,14 +612,18 @@
   "31745": {
     "level": 9,
     "short": "ИСУ-152К",
-    "class": "AT-SPG",
-    "testTank": true
+    "class": "AT-SPG"
   },
   "32001": {
     "level": 9,
     "short": "К-91-ПТ",
     "class": "AT-SPG",
     "testTank": true
+  },
+  "32257": {
+    "level": 6,
+    "short": "Т-34-85 Бригадир",
+    "class": "mediumTank"
   },
   "17": {
     "level": 5,
@@ -2914,8 +2918,7 @@
   "17265": {
     "level": 10,
     "short": "Протей",
-    "class": "AT-SPG",
-    "testTank": false
+    "class": "AT-SPG"
   },
   "625": {
     "level": 6,
@@ -3206,6 +3209,11 @@
     "level": 10,
     "short": "МБ-85 Бор",
     "class": "mediumTank"
+  },
+  "18801": {
+    "level": 9,
+    "short": "ЛВ-915 Кратос",
+    "class": "AT-SPG"
   },
   "385": {
     "level": 10,
