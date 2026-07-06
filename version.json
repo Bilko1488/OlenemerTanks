@@ -1,34 +1,37 @@
 {
   "version": "1.7.0",
-  "released": "2026-01-29T12:00:00Z",
   "download_url": "https://forblitz.ru/modifications/other/olenemer-xvm-extended-visualization-mod/23398",
+  "update_url": "",
+  "update_sha256": "",
   "changelog_ru": "Пофикшено отображение танков на Лесте",
   "changelog_en": "",
   "changelog_uk": "",
   "nick_replacements": {
     "wg": [
-      {
-        "original": "ABepuH",
-        "replacement": "Упоритесь в меня"
-      },
-      {
-        "original": "ex_iibris",
-        "replacement": "FloXeR"
-      }
+      { "original": "ABepuH", "replacement": "Упоритесь в меня" },
+      { "original": "ex_iibris", "replacement": "FloXeR" }
     ],
     "lesta": [
-      {
-        "original": "3XO_TEPPOPA",
-        "replacement": "Мессенжер MAX"
-      },
-      {
-        "original": "Perfect_M1nd",
-        "replacement": "Есть пробитие"
-      }
+      { "original": "3XO_TEPPOPA", "replacement": "Мессенжер MAX" },
+      { "original": "Perfect_M1nd", "replacement": "Есть пробитие" }
     ]
   },
   "blocked_users": {
     "wg": [],
     "lesta": []
-  }
+  },
+  "announcements": [
+    {
+      "id": "test-2",
+      "date": "2026-07-07 00:16",
+      "text_ru": "Переписан Оленемер",
+      "pin": true
+    },
+    {
+      "id": "test1",
+      "date": "2026-07-07 00:18",
+      "text_ru": "Обновлен Оленемер для елсты"
+    }
+  ],
+  "released": "2026-01-29T12:00:00Z"
 }
