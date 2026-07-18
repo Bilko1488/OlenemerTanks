@@ -20,5 +20,18 @@
     "wg": [],
     "lesta": []
   },
+  "announcements": [
+    {
+      "id": "release-2-1",
+      "date": "2026-07-18 23:35",
+      "text_ru": "Обновление 2.1 вышло, все изменения можете увидеть в телеграм канале!",
+      "text_en": "Update 2.1 is now available! You can find the full list of changes in our Telegram channel.",
+      "text_uk": "Оновлення 2.1 вже вийшло! Усі зміни ви можете переглянути в Telegram-каналі.",
+      "button_label_ru": "ChangeLog",
+      "button_label_en": "ChangeLog",
+      "button_label_uk": "ChangeLog",
+      "button_url": "https://t.me/olenemer_blitz/65"
+    }
+  ],
   "released": "2026-07-18T20:24:25Z"
 }
