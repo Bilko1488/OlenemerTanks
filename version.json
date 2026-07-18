@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "download_url": "https://forblitz.ru/modifications/other/olenemer-xvm-extended-visualization-mod/23398",
-  "update_url": "",
-  "update_sha256": "",
+  "update_url": "https://raw.githubusercontent.com/Bilko1488/OlenemerTanks/main/Olenemer-2.1.0.exe",
+  "update_sha256": "924560d551f0ddeff12903e768cf017f9b74e6bf802328ea4e1d92e3adadf11e",
   "changelog_ru": "",
   "changelog_en": "",
   "changelog_uk": "",
@@ -20,5 +20,5 @@
     "wg": [],
     "lesta": []
   },
-  "released": "2026-01-29T12:00:00Z"
+  "released": "2026-07-18T20:24:25Z"
 }
